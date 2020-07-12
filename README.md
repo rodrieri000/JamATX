@@ -16,3 +16,6 @@ Possible future extension that allows remote jam sessions through webcam service
 
 ![1](./src/images/jam-atx.png)
 ![2](./src/images/jamatx.png)
+![2](./src/images/Home.png)
+![2](./src/images/Login.png)
+![2](./src/images/Sign_Up.png)
